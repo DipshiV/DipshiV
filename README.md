@@ -1,15 +1,14 @@
-<picture><source media "(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png"> </picture>
+### Hi there 👋, my name is Dipshi Verma
+#### I am GitHub Readme Generator's creator
+![I am Frontend Developer](https://t3.ftcdn.net/jpg/02/92/88/72/240_F_292887204_2wH041phSQo70eqaE9GRqFvn5MmQ4B8w.jpg)
 
-# 👋 Hi, I’m Dipshi Verma
-- 👀 I’m interested in ...
--
-- 🌱 I’m currently learning MERN
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-👨‍💻 All of my projects are available https://vercel.com/dashboard
+Skills:  REACT / JS / HTML / CSS
 
-💬 Ask me about HTML, CSS, ReactJs
 
-📫 How to reach vermadipshi70@gmail.com
+
+
 
 
 
