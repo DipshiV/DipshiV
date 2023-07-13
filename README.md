@@ -8,7 +8,7 @@ Design and Development of Website. I really enjoy learning Languages and framewo
 Skills:  REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning Mern Stack 
-- 💬 Ask me about React.js ,Html,Css JS 
+- 💬 Ask me about React.js ,Html,Css,JS 
 - 📫 How to reach me: vermadipshi70@gmail.com 
 
 
