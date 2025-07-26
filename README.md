@@ -6,6 +6,7 @@ I am Dipshi from Uttar Pradesh Lucknow, I do
 Design and Development of Website. I really enjoy learning Languages and framework like React, Java Script, Html, Css, Angular.
 
 Skills:  REACT / JS / HTML / CSS
+       .NET / SpringBoot / Node.js / Express.js
 
 - 🌱 I’m currently learning Mern Stack 
 - 💬 Ask me about React.js ,Html,Css,JS 
